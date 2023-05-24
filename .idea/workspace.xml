@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2ca34d6-add6-461b-8a50-df8300b7dcdf" name="Changes" comment="new project basic set up" />
+    <list default="true" id="f2ca34d6-add6-461b-8a50-df8300b7dcdf" name="Changes" comment="added README.me assignment text">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +15,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2QEKIACS92GozmpKWmySehEld2Y" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -41,11 +50,19 @@
       <option name="project" value="LOCAL" />
       <updated>1684913621695</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added README.me assignment text">
+      <created>1684914028427</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684914028427</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new project basic set up" />
-    <option name="LAST_COMMIT_MESSAGE" value="new project basic set up" />
+    <MESSAGE value="added README.me assignment text" />
+    <option name="LAST_COMMIT_MESSAGE" value="added README.me assignment text" />
   </component>
 </project>
