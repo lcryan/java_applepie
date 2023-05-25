@@ -51,6 +51,8 @@ class ApplePieRecipe {
         System.out.println("• Klop het ei los en verdeel deze in twee delen. De ene helft is voor het deeg, het andere deel is voor het bestrijken van de appeltaart");
     }
 
+    public void stepThree
+
     public void printRecipeSteps() {
         stepOneHeatUpOven();
         stepTwoAddEgg();
